@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/CRUX-2.0/static/css/main.e4872f25.css",
-    "main.js": "/CRUX-2.0/static/js/main.6bf98fb3.js",
+    "main.css": "/CRUX-2.0/static/css/main.1a4c71c0.css",
+    "main.js": "/CRUX-2.0/static/js/main.2f8769f6.js",
     "static/js/453.8627f0dd.chunk.js": "/CRUX-2.0/static/js/453.8627f0dd.chunk.js",
     "index.html": "/CRUX-2.0/index.html",
-    "main.e4872f25.css.map": "/CRUX-2.0/static/css/main.e4872f25.css.map",
-    "main.6bf98fb3.js.map": "/CRUX-2.0/static/js/main.6bf98fb3.js.map",
+    "main.1a4c71c0.css.map": "/CRUX-2.0/static/css/main.1a4c71c0.css.map",
+    "main.2f8769f6.js.map": "/CRUX-2.0/static/js/main.2f8769f6.js.map",
     "453.8627f0dd.chunk.js.map": "/CRUX-2.0/static/js/453.8627f0dd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e4872f25.css",
-    "static/js/main.6bf98fb3.js"
+    "static/css/main.1a4c71c0.css",
+    "static/js/main.2f8769f6.js"
   ]
 }
